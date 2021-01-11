@@ -1,0 +1,24 @@
+{
+  "name": "cli-test-template",
+  "version": "1.0.0",
+  "description": "自定义脚手架测试模板",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Li-DaDa/cli-test-template.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Li-DaDa/cli-test-template/issues"
+  },
+  "homepage": "https://github.com/Li-DaDa/cli-test-template#readme",
+  "dependencies": {
+    "webpack": "^5.12.3",
+    "webpack-cli": "^4.3.1"
+  }
+}
